@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\Ejercicio1_GUIA3_GA181200\bin\Debug\Ejercicio1_GUIA3_GA181200.exe.config
+C:\Users\dell\Desktop\Ejercicio1_GUIA3_GA181200\bin\Debug\Ejercicio1_GUIA3_GA181200.exe
+C:\Users\dell\Desktop\Ejercicio1_GUIA3_GA181200\bin\Debug\Ejercicio1_GUIA3_GA181200.pdb
+C:\Users\dell\Desktop\Ejercicio1_GUIA3_GA181200\obj\Debug\Ejercicio1_GUIA3_GA181200.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Ejercicio1_GUIA3_GA181200\obj\Debug\Ejercicio1_GUIA3_GA181200.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Ejercicio1_GUIA3_GA181200\obj\Debug\Ejercicio1_GUIA3_GA181200.exe
+C:\Users\dell\Desktop\Ejercicio1_GUIA3_GA181200\obj\Debug\Ejercicio1_GUIA3_GA181200.pdb
